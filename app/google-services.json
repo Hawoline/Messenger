@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031262903110",
+    "firebase_url": "https://kotlin-messenger-84144.firebaseio.com",
+    "project_id": "kotlin-messenger-84144",
+    "storage_bucket": "kotlin-messenger-84144.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031262903110:android:59ad8569185e445b2de347",
+        "android_client_info": {
+          "package_name": "ru.hawoline.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031262903110-eqn38ad8r5q2s9d4vqqjehvu00poog5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJ0OrQSqi_ZmMH9yDDc37OND_oGYnCjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031262903110-eqn38ad8r5q2s9d4vqqjehvu00poog5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
